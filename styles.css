@@ -1,0 +1,5 @@
+body{
+    margin: 0px;
+    background-color: rgb(255, 255, 255); /*have set the color to white, can choose any other color too!*/
+    overflow: hidden;
+}
